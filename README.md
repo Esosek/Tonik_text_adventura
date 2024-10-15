@@ -1,7 +1,7 @@
 ﻿Ahoj Toníku,
 Chtěl bych udělat krok zpátky a začít společně tvořit jinou hru, která se lépe hodí k pochopení programování a díky níž do toho nebudeme plést složité věci jako středoškolskou matematiku, práci v Godotu a další činosti potřebné k vytvoření 3D hry.
 
-Budeme tedy tvořit textovou adventuru - první hru, které na počítačích vznikla. Zajímavé na tom bude, že si můžeš celý herní svět vymyslet úplně sám a stvořit tak něco unikátního. A pokud se nám to povede, budš se moct pochlubit kamarádům a rodině.
+Budeme tedy tvořit textovou adventuru - první hru, které na počítačích vznikla. Zajímavé na tom bude, že si můžeš celý herní svět vymyslet úplně sám a stvořit tak něco unikátního. A pokud se nám to povede, budeš se moct pochlubit kamarádům a rodině.
 
 ![Jdeme za dobrodružstvím!](intro.gif)
 
